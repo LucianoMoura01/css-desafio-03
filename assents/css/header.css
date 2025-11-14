@@ -2,13 +2,12 @@
 
 .menu {
     display: grid;
-    /* left fixed, center flexible, right fixed -> center stays centered relative to page */
     grid-template-columns: 146px 1fr 130px;
     align-items: center;
     width: 100%;
     height: 56px;
     padding: 0 24px;
-    background-color: #4a90e2; /* azul visível */
+    background-color: #ffffff;
     color: #ffffff;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
 }

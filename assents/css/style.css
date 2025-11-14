@@ -2,6 +2,7 @@
 @import url('header.css');
 @import url('main.css');
 @import url('sidebar.css');
+@import url('content.css');
 
 body {
     display: grid;
@@ -9,7 +10,4 @@ body {
     grid-template-columns: 1fr;
     width: 100vw;
     height: 100vh;
-    /*background-color: #f5f5f5;
-    color: #333;
-    line-height: 1.6;*/
 }
